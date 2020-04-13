@@ -3,4 +3,3 @@
 
 [print_schema]
 file = "src/logic/schema.rs"
-patch_file = "src/logic/schema.patch.rs"
