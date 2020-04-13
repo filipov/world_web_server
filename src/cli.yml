@@ -1,0 +1,4 @@
+name: world_service
+subcommands:
+  - start:
+      about: Start web server
