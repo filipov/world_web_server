@@ -1,5 +1,4 @@
 pub fn arrange() {
-    diesel::select()
 }
 
 fn colibrate_tiles(some_tiles: Vec<Vec<Vec<f64>>>) -> Vec<Vec<Vec<f64>>> {
